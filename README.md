@@ -11,7 +11,3 @@ This project is an eCommerce web application built with PHP, MySQL, and Stripe i
 
 Customer verification is done by accessing the database and changing the active status.
 
-## Admin Login Details
-
-- Email: admin@mail.com
-- Password: Password@123
